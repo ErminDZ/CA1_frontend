@@ -1,4 +1,6 @@
 import './style.css'
+// import "bootstrap/dist/css/bootstrap.css"
+// import * as bootstrap from 'bootstrap';
 
 const test = document.getElementById("list");
 
